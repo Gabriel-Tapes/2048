@@ -5,7 +5,7 @@ import tailwindcss from 'tailwindcss'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/plano-de-treino/',
+  base: '/2048/',
   plugins: [tsconfigPaths(), react()],
   css: {
     postcss: {
